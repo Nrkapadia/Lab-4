@@ -1,0 +1,16 @@
+D:\DotNet Technologies\Assignment-4\Question3\bin\Debug\net5.0\Question3.exe
+D:\DotNet Technologies\Assignment-4\Question3\bin\Debug\net5.0\Question3.deps.json
+D:\DotNet Technologies\Assignment-4\Question3\bin\Debug\net5.0\Question3.runtimeconfig.json
+D:\DotNet Technologies\Assignment-4\Question3\bin\Debug\net5.0\Question3.runtimeconfig.dev.json
+D:\DotNet Technologies\Assignment-4\Question3\bin\Debug\net5.0\Question3.dll
+D:\DotNet Technologies\Assignment-4\Question3\bin\Debug\net5.0\ref\Question3.dll
+D:\DotNet Technologies\Assignment-4\Question3\bin\Debug\net5.0\Question3.pdb
+D:\DotNet Technologies\Assignment-4\Question3\obj\Debug\net5.0\Question3.csproj.AssemblyReference.cache
+D:\DotNet Technologies\Assignment-4\Question3\obj\Debug\net5.0\Question3.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet Technologies\Assignment-4\Question3\obj\Debug\net5.0\Question3.AssemblyInfoInputs.cache
+D:\DotNet Technologies\Assignment-4\Question3\obj\Debug\net5.0\Question3.AssemblyInfo.cs
+D:\DotNet Technologies\Assignment-4\Question3\obj\Debug\net5.0\Question3.csproj.CoreCompileInputs.cache
+D:\DotNet Technologies\Assignment-4\Question3\obj\Debug\net5.0\Question3.dll
+D:\DotNet Technologies\Assignment-4\Question3\obj\Debug\net5.0\ref\Question3.dll
+D:\DotNet Technologies\Assignment-4\Question3\obj\Debug\net5.0\Question3.pdb
+D:\DotNet Technologies\Assignment-4\Question3\obj\Debug\net5.0\Question3.genruntimeconfig.cache
